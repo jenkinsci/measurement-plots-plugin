@@ -13,7 +13,7 @@
 
   <name>Measurement Plots</name>
   <description>Plot measurements embedded into the standard output and error streams of tests.</description>
-  <url>http://wiki.hudson-ci.org/display/HUDSON/Measurement+Plots</url>
+  <url>http://wiki.hudson-ci.org/display/HUDSON/Measurement+Plots+Plugin</url>
   <packaging>hpi</packaging>
 
   <developers>
