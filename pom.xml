@@ -9,7 +9,7 @@
 
   <groupId>org.jvnet.hudson.plugins</groupId>
   <artifactId>measurement-plots</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
 
   <name>Measurement Plots</name>
   <description>Plot measurements embedded into the standard output and error streams of tests.</description>
@@ -40,10 +40,4 @@
       <url>http://maven.glassfish.org/content/groups/public/</url>
     </pluginRepository>
   </pluginRepositories>
-
-  <scm>
-    <connection>scm:svn:https://guest@svn.dev.java.net/svn/hudson/tags/measurement-plots-0.1</connection>
-    <developerConnection>scm:svn:https://svn.dev.java.net/svn/hudson/tags/measurement-plots-0.1</developerConnection>
-    <url>https://hudson.dev.java.net/source/browse/hudson/tags/measurement-plots-0.1</url>
-  </scm>
 </project>
